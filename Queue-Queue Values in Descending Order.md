@@ -33,7 +33,7 @@ print(*list(newq))
 
 ### Output:
 
-<img width="1104" height="443" alt="image" src="https://github.com/user-attachments/assets/ad887f8d-610f-4cf3-9f1a-8091d82d7731" />
+<img width="1023" height="446" alt="image" src="https://github.com/user-attachments/assets/f8fa43bc-130b-48b7-ba56-ccb1f8fd3d67" />
 
 
 ## Result:
